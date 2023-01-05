@@ -66,3 +66,11 @@ obj.name = "Ctrl"; // obj = { name: "Ctrl", id: 42 }
 obj.gender = "male"; // obj = { name: "Ctrl", id: 42, gender: "male" }
 obj.phone = 0990; // TypeError Assignment to constant variable
 ```
+
+برای مطالعه بیشتر 
+[var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+و
+[let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+و
+[const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+اینجا را کلیک کنید.
