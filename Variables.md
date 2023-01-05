@@ -73,4 +73,4 @@ obj.phone = 0990; // TypeError Assignment to constant variable
 [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 و
 [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
-اینجا را کلیک کنید.
+اینجا رو نگاه بکن.
