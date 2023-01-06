@@ -4,3 +4,4 @@
 
   - [کامنت ها](Comments.md)
   - [متغیر ها](Variables.md)
+  - [عملگر ها](Operators.md)
