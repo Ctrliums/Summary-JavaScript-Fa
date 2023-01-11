@@ -60,3 +60,7 @@
 |---|---|
 | `typeof` |	نوع تایپ متغیر رو بر میگردونه |
 | `instanceof` | برمیگردونه `true` اگه شیء نمونه ای از کلاس شیء دیگه باشه |
+
+برای مطالعه بیشتر
+[ اپراتور ها](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators) 
+میتونی اینجا رو نگاه بکنی.
